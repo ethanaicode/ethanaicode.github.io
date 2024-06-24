@@ -1,1 +1,1 @@
-# ethanaicode.github.io
+This is a project about github pages.
